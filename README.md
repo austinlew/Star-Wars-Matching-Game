@@ -3,3 +3,7 @@
 
 ## Game Description - Matching Card Game
 This game tests your memory but in a fun way, if you enjoy Star Wars as much as I do then this will be fun for you. First, you want to choose one card and flip it over next you want to flip another card and if is the same card the game will keep the cards shown upwards, if they are not the same card then the game will flip it back over. You will have to find all of the matching cards in those 30 seconds, if not, that big Death Star in the back will destroy your computer. Just kidding. But if you do get all of the matching cards before the timer hits 0 seconds, YOU WIN! Keep playing again over and over to try to get a lower score on the timer. Enjoy!
+
+## Game Pictures
+<img width="1499" alt="Screenshot1" src="screenshots/screenshot1"/>
+This is what the game looks like
