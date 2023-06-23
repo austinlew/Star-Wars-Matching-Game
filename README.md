@@ -6,4 +6,4 @@ This game tests your memory but in a fun way, if you enjoy Star Wars as much as 
 
 ## Game Pictures
 This is what the game looks like
-![Uploading Screenshot 2023-06-23 at 1.22.55 PM.png…]()
+![Screenshot 2023-06-23 at 1 22 55 PM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/cbf2abcf-1545-4b59-bf40-bce6042075e7)
