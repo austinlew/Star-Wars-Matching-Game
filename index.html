@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Card Matching Game</title>
+    <link rel="shortcut icon" href="#">
+    <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <h1>Star Wars Matching Game</h1>
+    <div class="won-msg"></div>
+    <div class="lost-msg"></div>
+    <section class="matching-game">
+        <div class="matching-card" data-framework="maul">
+            <img class="front-face" src="images/maul.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="maul">
+            <img class="front-face" src="images/maul.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="vader">
+            <img class="front-face" src="images/vader.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="vader">
+            <img class="front-face" src="images/vader.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="boba">
+            <img class="front-face" src="images/boba2.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="boba">
+            <img class="front-face" src="images/boba2.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framwork="luke">
+            <img class="front-face" src="images/luke.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framwork="luke">
+            <img class="front-face" src="images/luke.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="r2-d2">
+            <img class="front-face" src="images/r2-d2.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="r2-d2">
+            <img class="front-face" src="images/r2-d2.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+       <div class="matching-card" data-framework="yoda">
+            <img class="front-face" src="images/yoda.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+        <div class="matching-card" data-framework="yoda">
+            <img class="front-face" src="images/yoda.jpg"/>
+            <img class="back-face" src="images/star-wars-logo.jpg"/>
+        </div>
+    </section>
+    <div id="app"></div>
+
+
+
+
+    <button type="submit" onClick="refreshPage()">PLAY AGAIN</button>
+    
+    
+
+    <audio controls autoplay loop id="myaudio">
+        <source src="audio/Yoda.mp3" type="audio/mpeg"/>
+    </audio>
+    
+
+    
+    <script>
+        var audio = document.getElementById("myaudio");
+        audio.volume = 0.1;
+    </script>
+
+
+</body>
+
