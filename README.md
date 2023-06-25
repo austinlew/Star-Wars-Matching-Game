@@ -27,9 +27,14 @@ My CSS was used to style the game and to get it the way I wanted it to look with
 Javascript was the brain of everything to get all of my functionalities work to flip the cards, understand the win/lose logic of the game, my timer to run, to find the cards that match, to have the cards flip back over if they don't match and after all of it for the play again button to rest and shuffle all the cards.
 
 ## Challenging Coding Parts
+My images were not working until I figured out the problem
+![Screenshot 2023-06-25 at 10 08 17 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/f629086a-80d8-47cc-b0d0-7d3ce1b23cb7)
 
+Win or loss was not showing up whenever player won or lost the game but the problem was that I didn't invoke the function in the correct area which ended up working when I changed it
+![Screenshot 2023-06-25 at 10 12 54 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/e644e50b-91bb-426d-ba1b-20c18a94a350)
 
 ## Link to Game
 
 
 ## Next Steps
+In the future I would like to clean up the code and make it shorter if I can and also add some more animations including a moving background/video and even add different sounds depending on the character you choose on the cards. Also, I would want to add a animation on the cards shuffling and a score of your best time when you win the game with it showing how many moves you made to end the game. 
