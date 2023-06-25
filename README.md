@@ -12,6 +12,13 @@ This is what it look like when you find the same cards
 
 ![Screenshot 2023-06-23 at 1 28 21 PM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/76ef7929-514e-455c-9fe1-2efe9a79f385)
 
+If you win this is what it shows
+![Screenshot 2023-06-25 at 10 04 15 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/e5f66ec2-927d-4f8b-927f-cb67a2af4771)
+
+If you loss this is what it shows
+![Screenshot 2023-06-25 at 10 04 57 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/dd84df77-e710-49e9-ad8c-8d715193df30)
+
+
 ## Technologies Used
 I used HTML to get the base of everything put together, I put my front and back images, play again button and audio in here as well.
 
