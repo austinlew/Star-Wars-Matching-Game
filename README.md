@@ -29,10 +29,11 @@ Javascript was the brain of everything to get all of my functionalities work to 
 
 ## Challenging Coding Parts
 My images were not working until I figured out the problem
-![Screenshot 2023-06-25 at 10 08 17 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/f629086a-80d8-47cc-b0d0-7d3ce1b23cb7)
+![Screenshot 2023-06-25 at 10 08 17 AM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/004a6356-23ab-4028-9193-e9bba70014f7)
+
 
 Win or loss was not showing up whenever player won or lost the game but the problem was that I didn't invoke the function in the correct area which ended up working when I changed it
-![Screenshot 2023-06-25 at 10 12 54 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/e644e50b-91bb-426d-ba1b-20c18a94a350)
+![Screenshot 2023-06-25 at 10 12 54 AM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/72bd998c-ceaf-4fce-9a9c-f84b01af772e)
 
 ## Link to Game
 (https://austinlew.github.io/Star-Wars-Matching-Game/)
