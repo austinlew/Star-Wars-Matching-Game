@@ -34,7 +34,8 @@ Win or loss was not showing up whenever player won or lost the game but the prob
 ![Screenshot 2023-06-25 at 10 12 54 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/e644e50b-91bb-426d-ba1b-20c18a94a350)
 
 ## Link to Game
-
+[
+](https://austinlew.github.io/Star-Wars-Matching-Game/)
 
 ## Next Steps
 In the future I would like to clean up the code and make it shorter if I can and also add some more animations including a moving background/video and even add different sounds depending on the character you choose on the cards. Also, I would want to add a animation on the cards shuffling and a score of your best time when you win the game with it showing how many moves you made to end the game. 
