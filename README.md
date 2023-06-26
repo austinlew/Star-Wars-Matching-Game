@@ -36,7 +36,7 @@ Win or loss was not showing up whenever player won or lost the game but the prob
 ![Screenshot 2023-06-25 at 10 12 54 AM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/72bd998c-ceaf-4fce-9a9c-f84b01af772e)
 
 ## Link to Game
-(https://austinlew.github.io/Star-Wars-Matching-Game/)
+https://austinlew.github.io/Star-Wars-Matching-Game/
 
 ## Next Steps
 In the future I would like to clean up the code and make it shorter if I can and also add some more animations including a moving background/video and even add different sounds depending on the character you choose on the cards. Also, I would want to add a animation on the cards shuffling and when the cards don't match the cards show a shake animation. 
