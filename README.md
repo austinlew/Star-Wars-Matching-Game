@@ -29,11 +29,8 @@ My CSS was used to style the game and to get it the way I wanted it to look with
 Javascript was the brain of everything to get all of my functionalities work to flip the cards, understand the win/lose logic of the game, my timer to run, to find the cards that match, to have the cards flip back over if they don't match and after all of it for the play again button to rest and shuffle all the cards.
 
 ## Challenging Coding Parts
-My images were not working until I figured out the problem
 ![Screenshot 2023-06-25 at 10 08 17 AM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/004a6356-23ab-4028-9193-e9bba70014f7)
 
-
-Win or loss was not showing up whenever player won or lost the game but the problem was that I didn't invoke the function in the correct area which ended up working when I changed it
 ![Screenshot 2023-06-25 at 10 12 54 AM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/72bd998c-ceaf-4fce-9a9c-f84b01af772e)
 
 ## Link to Game
