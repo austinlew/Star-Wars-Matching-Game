@@ -43,4 +43,6 @@ In the future I would like to clean up the code and make it shorter if I can and
 
 ## Links that helped me create the game
 https://www.youtube.com/watch?v=ZniVgo8U7ek&t=667s
+
+
 https://css-tricks.com/how-to-create-an-animated-countdown-timer-with-html-css-and-javascript/
