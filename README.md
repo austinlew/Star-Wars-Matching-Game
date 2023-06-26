@@ -41,7 +41,7 @@ https://austinlew.github.io/Star-Wars-Matching-Game/
 ## Next Steps
 In the future I would like to clean up the code and make it shorter if I can and also add some more animations including a moving background/video and even add different sounds depending on the character you choose on the cards. Also, I would want to add a animation on the cards shuffling and when the cards don't match the cards show a shake animation. 
 
-## Links that helped me create the game
+## Links that helped me
 https://www.youtube.com/watch?v=DABkhfsBAWw
 
 
