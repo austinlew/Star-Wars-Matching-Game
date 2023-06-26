@@ -40,3 +40,7 @@ Win or loss was not showing up whenever player won or lost the game but the prob
 
 ## Next Steps
 In the future I would like to clean up the code and make it shorter if I can and also add some more animations including a moving background/video and even add different sounds depending on the character you choose on the cards. Also, I would want to add a animation on the cards shuffling and a score of your best time when you win the game with it showing how many moves you made to end the game. 
+
+## Links that helped me create the game
+https://www.youtube.com/watch?v=ZniVgo8U7ek&t=667s
+https://css-tricks.com/how-to-create-an-animated-countdown-timer-with-html-css-and-javascript/
