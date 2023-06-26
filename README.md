@@ -1,4 +1,4 @@
-# Card-Game-Project-1
+# Star Wars Matching Game Project 1
 
 
 ## Game Description - Matching Card Game
