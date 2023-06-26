@@ -13,10 +13,11 @@ This is what it look like when you find the same cards
 ![Screenshot 2023-06-23 at 1 28 21 PM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/992180fe-6405-4921-a579-bdc0e30dea51)
 
 If you win this is what it shows
-![Screenshot 2023-06-25 at 10 04 15 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/e5f66ec2-927d-4f8b-927f-cb67a2af4771)
+![Screenshot 2023-06-25 at 10 04 15 AM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/0d71cd6c-4f3b-4a42-a508-5e9551ce3313)
+
 
 If you loss this is what it shows
-![Screenshot 2023-06-25 at 10 04 57 AM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/dd84df77-e710-49e9-ad8c-8d715193df30)
+![Screenshot 2023-06-25 at 10 04 57 AM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/39aad612-b1bc-4677-9b4a-b6280d01fe6a)
 
 
 ## Technologies Used
