@@ -6,7 +6,7 @@ This game tests your memory but in a fun way, if you enjoy Star Wars as much as 
 
 ## Game Pictures
 This is what the game looks like
-![Screenshot 2023-06-23 at 1 22 55 PM](https://github.com/austinlew/Card-Game-Project-1/assets/134661556/cbf2abcf-1545-4b59-bf40-bce6042075e7)
+![Screenshot 2023-06-23 at 1 22 55 PM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/7f185aac-4004-445f-9d2a-fade6fa45b63)
 
 This is what it look like when you find the same cards
 
