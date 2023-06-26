@@ -6,7 +6,8 @@ Find all the characters from Star Wars to save the galaxy! To do so first, you m
 
 ## Game Pictures
 This is what the game looks like
-![Screenshot 2023-06-23 at 1 22 55 PM](https://github.com/anandpatel48/SEI-BlackJack/assets/134661556/7f185aac-4004-445f-9d2a-fade6fa45b63)
+![Screenshot 2023-06-26 at 6 59 41 AM](https://github.com/lavishAl/MemoryGame2023/assets/134661556/87a33149-4798-4106-8556-0d72ebcdde83)
+
 
 This is what it look like when you find the same cards
 
